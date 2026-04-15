@@ -1,3 +1,0 @@
-E:\newTools\CMake4.1.2\bin\cmake.exe -E rm -f CMakeFiles\textEditor.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\textEditor.dir/objects.a @CMakeFiles\textEditor.dir\objects1.rsp
-C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\textEditor.dir/objects.a -Wl,--no-whole-archive -o textEditor.exe -Wl,--out-implib,libtextEditor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\textEditor.dir\linkLibs.rsp
