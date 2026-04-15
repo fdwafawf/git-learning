@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/A_Projects/new/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=c11 -o CMakeFiles\\textEditor.dir\\main.c.obj -c D:\\A_Projects\\new\\main.c",
+  "file": "D:/A_Projects/new/main.c",
+  "output": "CMakeFiles/textEditor.dir/main.c.obj"
+}
+]
